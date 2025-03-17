@@ -5,7 +5,7 @@ export const dataSource = new DataSource({
   type: 'mysql',
   host: 'localhost',
   port: 3306,
-  database: 'posts',
+  database: 'oxlip',
   username: 'root',
   password: '00000000',
   entities: [
